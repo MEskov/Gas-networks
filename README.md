@@ -1,4 +1,4 @@
-This repository contains the source code and source data for my project:
+This repository contains the source code, source data and final report for my project:
 
 'NETWORK ANALYSIS OF GAS EXPORTS AND IMPORTS AT THE COUNTRY LEVEL UNDER CONDITIONS OF DEEP UNCERTAINTY'
 
