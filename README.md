@@ -4,4 +4,3 @@ This repository contains the source code and source data for my project:
 
 Higher School of Economics 2023.
 
-Perhaps my final work will appear here.
